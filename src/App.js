@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit Propeller DirtMate
         </a>
       </header>
     </div>
